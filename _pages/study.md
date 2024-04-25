@@ -10,6 +10,7 @@ redirect_from:
 # 排名
 
 哈工大电信学院2021级330人，学分绩排名2/330；综测排名1/330<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%E5%93%88%E5%B7%A5%E5%A4%A7%E7%94%B5%E4%BF%A1%E5%AD%A6%E9%99%A22021%E7%BA%A7330%E4%BA%BA%EF%BC%8C%E5%AD%A6%E5%88%86%E7%BB%A9%E6%8E%92%E5%90%8D2%2F330%EF%BC%9B%E7%BB%BC%E6%B5%8B%E6%8E%92%E5%90%8D1%2F330)](https://git.io/typing-svg)
 通信工程系110人，学分绩排名2/110；综测排名1/110<br>
 ***大一学年计算机与电子通信大类731人，排名1/731***
 
