@@ -13,7 +13,7 @@ redirect_from:
 | --- | --- | --- |
 | 分数 | 543 | 585 |
 
-![CET6](https://raw.githubusercontent.com/HITLqk/lqk/master/images/%E5%85%AD%E7%BA%A7%E8%AF%81%E4%B9%A6%E7%94%B5%E5%AD%90%E7%89%88.png=100x100)![CET4](https://raw.githubusercontent.com/HITLqk/lqk/master/images/%E5%9B%9B%E7%BA%A7%E8%AF%81%E4%B9%A6%E7%94%B5%E5%AD%90%E7%89%88.png=100x100)
+![CET6](https://raw.githubusercontent.com/HITLqk/lqk/master/images/%E5%85%AD%E7%BA%A7%E8%AF%81%E4%B9%A6%E7%94%B5%E5%AD%90%E7%89%88.png =100x100)![CET4](https://raw.githubusercontent.com/HITLqk/lqk/master/images/%E5%9B%9B%E7%BA%A7%E8%AF%81%E4%B9%A6%E7%94%B5%E5%AD%90%E7%89%88.png =100x100)
 
 
 # 二、基础公共课成绩
