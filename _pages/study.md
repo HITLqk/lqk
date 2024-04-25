@@ -6,8 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-# 排名
+<br>
+# 一、成绩排名
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=000000&multiline=true&repeat=false&random=false&width=435&lines=21%E7%BA%A7%E5%93%88%E5%B7%A5%E5%A4%A7%E7%94%B5%E4%BF%A1%E5%AD%A6%E9%99%A2330%E4%BA%BA%EF%BC%8C%E5%AD%A6%E5%88%86%E7%BB%A9%E6%8E%92%E5%90%8D2%2F330)
 
@@ -22,7 +22,7 @@ redirect_from:
 
 
 
-# 一、英语水平
+# 二、英语水平
 
 | 英语等级考试 | 六级 | 四级 |
 | --- | --- | --- |
@@ -35,7 +35,7 @@ redirect_from:
 
 
 
-# 二、基础公共课成绩
+# 三、基础公共课成绩
 
 | 课程 | 成绩 | 课程 | 成绩 |
 | --- | --- | --- | --- |
@@ -46,7 +46,7 @@ redirect_from:
 
 
 
-# 三、专业课成绩
+# 四、专业课成绩
 ## 1、数学类专业课
 
 | 课程 | 成绩 | 课程 | 成绩 |
