@@ -9,15 +9,15 @@ redirect_from:
 
 # 排名
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=000000&multiline=true&repeat=false&random=false&width=435&lines=21%E7%BA%A7%E5%93%88%E5%B7%A5%E5%A4%A7%E7%94%B5%E4%BF%A1%E5%AD%A6%E9%99%A2330%E4%BA%BA%EF%BC%8C%E5%AD%A6%E5%88%86%E7%BB%A9%E6%8E%92%E5%90%8D2%2F330)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=000000&multiline=true&repeat=false&random=false&width=435&lines=21%E7%BA%A7%E5%93%88%E5%B7%A5%E5%A4%A7%E7%94%B5%E4%BF%A1%E5%AD%A6%E9%99%A2330%E4%BA%BA%EF%BC%8C%E5%AD%A6%E5%88%86%E7%BB%A9%E6%8E%92%E5%90%8D2%2F330)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=000000&multiline=true&repeat=false&random=false&width=435&lines=%E7%BB%BC%E6%B5%8B%E6%8E%92%E5%90%8D1%2F330)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=000000&multiline=true&repeat=false&random=false&width=435&lines=%E7%BB%BC%E6%B5%8B%E6%8E%92%E5%90%8D1%2F330)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=000000&multiline=true&repeat=false&random=false&width=435&lines=%E9%80%9A%E4%BF%A1%E5%B7%A5%E7%A8%8B%E7%B3%BB110%E4%BA%BA%EF%BC%8C%E5%AD%A6%E5%88%86%E7%BB%A9%E6%8E%92%E5%90%8D2%2F110)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=000000&multiline=true&repeat=false&random=false&width=435&lines=%E9%80%9A%E4%BF%A1%E5%B7%A5%E7%A8%8B%E7%B3%BB110%E4%BA%BA%EF%BC%8C%E5%AD%A6%E5%88%86%E7%BB%A9%E6%8E%92%E5%90%8D2%2F110)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=000000&multiline=true&repeat=false&random=false&width=435&lines=%E7%BB%BC%E6%B5%8B%E6%8E%92%E5%90%8D1%2F110)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=000000&multiline=true&repeat=false&random=false&width=435&lines=%E7%BB%BC%E6%B5%8B%E6%8E%92%E5%90%8D1%2F110)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=CD0000&repeat=false&random=false&width=435&lines=%E5%A4%A7%E4%B8%80%E5%AD%A6%E5%B9%B4%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%8E%E7%94%B5%E5%AD%90%E9%80%9A%E4%BF%A1%E5%A4%A7%E7%B1%BB%E6%8E%92%E5%90%8D1%2F731)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=CD0000&repeat=false&random=false&width=435&lines=%E5%A4%A7%E4%B8%80%E5%AD%A6%E5%B9%B4%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%8E%E7%94%B5%E5%AD%90%E9%80%9A%E4%BF%A1%E5%A4%A7%E7%B1%BB%E6%8E%92%E5%90%8D1%2F731)
 
 
 
@@ -28,7 +28,7 @@ redirect_from:
 | --- | --- | --- |
 | 分数 | **543** | **585** |
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CB64A&repeat=false&random=false&width=435&lines=%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%9D%87%E5%9C%A8%E5%A4%A7%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%80%E6%AC%A1%E6%80%A7%E9%80%9A%E8%BF%87%EF%BC%8C%E6%88%90%E7%BB%A9%E5%9D%87%E4%B8%BA%E8%A3%B8%E8%80%83)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CB64A&repeat=false&random=false&width=435&lines=%E5%9B%9B%E5%85%AD%E7%BA%A7%E5%9D%87%E5%9C%A8%E5%A4%A7%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%80%E6%AC%A1%E6%80%A7%E9%80%9A%E8%BF%87%EF%BC%8C%E6%88%90%E7%BB%A9%E5%9D%87%E4%B8%BA%E8%A3%B8%E8%80%83)
 
 
 ![CET6](https://raw.githubusercontent.com/HITLqk/lqk/master/images/%E5%85%AD%E7%BA%A7%E8%AF%81%E4%B9%A6%E7%94%B5%E5%AD%90%E7%89%88.png){:height="50%" width="50%"}![CET4](https://raw.githubusercontent.com/HITLqk/lqk/master/images/%E5%9B%9B%E7%BA%A7%E8%AF%81%E4%B9%A6%E7%94%B5%E5%AD%90%E7%89%88.png){:height="50%" width="50%"}
