@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "zh-CH"
 theme                    : minima
-title                    : "Harbin Institute of Technology"
+title                    : "Academicpage of 小李同学"
 title_separator          : "-"
 name                     : "QiKai Li"
 description              : "Academicpage of 小李同学"
@@ -25,7 +25,7 @@ author:
   avatar           : "images/lqk.jpg"
   name             : "李其锴 Qikai Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "李其锴同学，哈工大十佳学习之星提名，十佳学业帮辅志愿者，电信学院信·梦讲师团团长，学分绩连续多学期排名第一，国家奖学金、一等人民奖学金、小米奖学金特等奖等各类奖学金获得者，多项竞赛国奖获得者"
   location         : "河北邯郸"
   employer         : "哈尔滨工业大学"
   uri              : # URL
