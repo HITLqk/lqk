@@ -10,8 +10,8 @@ redirect_from:
 # 排名
 
 哈工大电信学院2021级330人，学分绩排名2/330；综测排名1/330<br>
-通信工程系110人，学分绩排名2/110；综测排名1/110
-![veryfication](https://raw.githubusercontent.com/HITLqk/lqk/master/files/%E5%93%88%E5%B7%A5%E5%A4%A7%E6%9D%8E%E5%85%B6%E9%94%B4%E6%8E%92%E5%90%8D%E8%AF%81%E6%98%8E.pdf)
+通信工程系110人，学分绩排名2/110；综测排名1/110<br>
+***大一学年计算机与电子通信大类731人，排名1/731***
 
 
 # 一、英语水平
@@ -63,5 +63,3 @@ redirect_from:
 | --- | --- | --- | --- |
 | 通信原理 | 94.4 | 星座卫星通信系统与技术 | 100 |
 
-
-![sheet](https://raw.githubusercontent.com/HITLqk/lqk/master/files/%E5%93%88%E5%B7%A5%E5%A4%A7%E6%9D%8E%E5%85%B6%E9%94%B4%E6%88%90%E7%BB%A9%E5%8D%95.pdf)
