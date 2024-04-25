@@ -12,6 +12,7 @@ redirect_from:
 | 英语等级考试 | 六级 | 四级 |
 | --- | --- | --- |
 | 分数 | **543** | **585** |
+
 > 四六级均在大一年级一次性通过，成绩均为裸考成绩
 
 ![CET6](https://raw.githubusercontent.com/HITLqk/lqk/master/images/%E5%85%AD%E7%BA%A7%E8%AF%81%E4%B9%A6%E7%94%B5%E5%AD%90%E7%89%88.png){:height="50%" width="50%"}![CET4](https://raw.githubusercontent.com/HITLqk/lqk/master/images/%E5%9B%9B%E7%BA%A7%E8%AF%81%E4%B9%A6%E7%94%B5%E5%AD%90%E7%89%88.png){:height="50%" width="50%"}
