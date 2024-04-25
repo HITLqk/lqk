@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/lqk.png"
+  avatar           : "lqk.png"
   name             : "李其锴 Qikai Li"
   pronouns         : # example: "she/her"  
   bio              : "李其锴同学，哈工大十佳学习之星提名，十佳学业帮辅志愿者，电信学院信·梦讲师团团长，学分绩连续多学期排名第一，国家奖学金、一等人民奖学金、小米奖学金特等奖等各类奖学金获得者，多项竞赛国奖获得者"
