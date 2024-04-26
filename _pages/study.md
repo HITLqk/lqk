@@ -22,7 +22,7 @@ redirect_from:
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=CD0000&repeat=false&random=false&width=435&lines=%E5%A4%A7%E4%B8%80%E5%AD%A6%E5%B9%B4%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%8E%E7%94%B5%E5%AD%90%E9%80%9A%E4%BF%A1%E5%A4%A7%E7%B1%BB%E6%8E%92%E5%90%8D1%2F731)
 
-
+- 请在代理下加载页面内容
 
 
 # 二、英语水平
