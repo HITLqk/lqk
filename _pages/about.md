@@ -25,7 +25,7 @@ redirect_from:
 
 ---
 
-![HIT1](https://raw.githubusercontent.com/HITLqk/lqk/master/images/%E5%93%88%E5%B7%A5%E5%A4%A71.png)
+![HIT1](https://raw.githubusercontent.com/HITLqk/lqk/master/images/%E5%93%88%E5%B7%A5%E5%A4%A72.png)
 
 P.S.
 
