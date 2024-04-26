@@ -25,6 +25,8 @@ redirect_from:
 
 ---
 
+![HIT1](https://raw.githubusercontent.com/HITLqk/lqk/master/images/%E5%93%88%E5%B7%A5%E5%A4%A71.png)
+
 P.S.
 
 *小李同学的个人博客网站*由*学业水平*、*竞赛与项目经历*、*学生工作*、*爱好与综合发展*、*哈工大简介*、*哈尔滨简介*等词条组成，此为初稿，水平有限，未经美化，还望各位友人海涵。正在寻找新模板，持续更新中，期待后续……
