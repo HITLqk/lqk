@@ -7,19 +7,22 @@ main:
 #    url: /publications/
 
   - title: "竞赛与项目经历"
-    url: /talks/    
+    url: /talks/
 
   - title: "学生工作"
-    url: /teaching/    
+    url: /teaching/
     
   - title: "爱好与综合发展"
     url: /portfolio/
+
+  - title: "一些小项目展示"
+    url: /littleones/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
