@@ -3,10 +3,10 @@ main:
   - title: "学业水平"
     url: /study/
     
-#  - title: "publications"
-#    url: /publications/
+  - title: "项目经历"
+    url: /publications/
 
-  - title: "竞赛与项目经历"
+  - title: "竞赛获奖"
     url: /talks/
 
   - title: "学生工作"
