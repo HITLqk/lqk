@@ -8,16 +8,22 @@ redirect_from:
 ---
 
 
+相逢既是缘，海天增色江山秀，蓬荜生辉草木芳，有缘千里来相会，追梦路上的小李，以最热情的问候感谢你的关注 :rose: 
 
-海天增色江山秀，蓬荜生辉草木芳。有缘千里来相会，相逢既是缘，追梦路上的小李，以最热情的问候感谢你的关注 :rose: 
+探索知识的江湖，学术的征程，如同一曲交响乐，吟咏着创新与智慧的华章。在这里，我以markdown文字为笔，书写心中的梦幻和情愫，述说生活的繁华和苦涩，游走在时光的长廊，留下心灵的足迹，
 
+
+
+
+
+
+
+希冀缘分不止于此，愿与你共赴万千诗酒的盛宴，分享心中的喜悦与忧愁。
 
 
 
 
  
-
-
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
