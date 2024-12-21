@@ -12,18 +12,23 @@ redirect_from:
 
 # 一、成绩排名
 21级哈工大电信学院330人，学分绩排名2/330
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=000000&multiline=true&repeat=false&random=false&width=435&lines=21%E7%BA%A7%E5%93%88%E5%B7%A5%E5%A4%A7%E7%94%B5%E4%BF%A1%E5%AD%A6%E9%99%A2330%E4%BA%BA%EF%BC%8C%E5%AD%A6%E5%88%86%E7%BB%A9%E6%8E%92%E5%90%8D2%2F330)
 
 综测排名1/330
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=000000&multiline=true&repeat=false&random=false&width=435&lines=%E7%BB%BC%E6%B5%8B%E6%8E%92%E5%90%8D1%2F330)
 
 通信工程系110人，学分绩排名2/110
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=000000&multiline=true&repeat=false&random=false&width=435&lines=%E9%80%9A%E4%BF%A1%E5%B7%A5%E7%A8%8B%E7%B3%BB110%E4%BA%BA%EF%BC%8C%E5%AD%A6%E5%88%86%E7%BB%A9%E6%8E%92%E5%90%8D2%2F110)
 
 综测排名1/110
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=000000&multiline=true&repeat=false&random=false&width=435&lines=%E7%BB%BC%E6%B5%8B%E6%8E%92%E5%90%8D1%2F110)
 
 大一学年计算机与电子通信大类排名1/731
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=CD0000&repeat=false&random=false&width=435&lines=%E5%A4%A7%E4%B8%80%E5%AD%A6%E5%B9%B4%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%8E%E7%94%B5%E5%AD%90%E9%80%9A%E4%BF%A1%E5%A4%A7%E7%B1%BB%E6%8E%92%E5%90%8D1%2F731)
 
 - 请在代理下加载页面内容
